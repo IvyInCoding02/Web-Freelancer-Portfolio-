@@ -1,0 +1,73 @@
+{
+    "projects": [
+        {
+            "id":1,
+            "title": "Gaming stream portal",
+            "previewPicture": "#",
+            "fullPicture":"/assets/projects/01.jpg",
+            "skills": ["React", "Node.js", "MongoDB"],
+            "gitHubLink": "#"
+        },
+
+        {
+            "id":2,
+            "title": "Video Service",
+            "previewPicture": "#",
+            "fullPicture":"/assets/projects/02.jpg",
+            "skills": ["Rust", "Node.js", "MongoDB"],
+            "gitHubLink": "#"
+        },
+
+        {
+            "id":3,
+            "title": "Video portal",
+            "previewPicture": "#",
+            "fullPicture":"/assets/projects/03.jpg",
+            "skills": ["GoLang", "Node.js", "MongoDB"],
+            "gitHubLink": "#"
+        },
+
+        {
+            "id":4,
+            "title": "Dating App",
+            "previewPicture": "#",
+            "fullPicture":"/assets/projects/04.jpg",
+            "skills": ["Java", "Node.js", "MongoDB"],
+            "gitHubLink": "#"
+        },
+
+        {
+            "id":5,
+            "title": "Landing",
+            "previewPicture": "#",
+            "fullPicture":"/assets/projects/05.jpg",
+            "skills": ["Ruby", "Node.js", "MongoDB"],
+            "gitHubLink": "#"
+        },
+        {
+            "id":6,
+            "title": "Gaming Community",
+            "previewPicture": "#",
+            "fullPicture":"/assets/projects/06.jpg",
+            "skills": ["C++", "Node.js", "MongoDB"],
+            "gitHubLink": "#"
+        },
+        {
+            "id":7,
+            "title": "To-do List",
+            "previewPicture": "#",
+            "fullPicture":"/assets/projects/01.jpg",
+            "skills": ["ReactJS", "Node.js", "MongoDB"],
+            "gitHubLink": "#"
+        },
+        {
+            "id":8,
+            "title": "Notion clone",
+            "previewPicture": "#",
+            "fullPicture":"/assets/projects/04.jpg",
+            "skills": ["Dart", "Node.js", "MongoDB"],
+            "gitHubLink": "#"
+        }
+
+    ]
+}
